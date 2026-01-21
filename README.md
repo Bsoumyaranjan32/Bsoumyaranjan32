@@ -5,5 +5,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#4F46E5;">Soumyaranjan Behera</span></h1>
 
 <p align="center">
-  <b>Frontend Developer</b>
+  <b>A passionate Frontend Developer from India</b>
 </p>
