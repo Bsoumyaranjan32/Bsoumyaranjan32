@@ -29,6 +29,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Bsoumyaranjan32&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bsoumyaranjan32&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Profile Views](https://komarev.com/ghpvc/?username=[Bsoumyaranjan32]&color=blue)
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
